@@ -1,0 +1,8 @@
+{
+  "name": "Một Địa Phương Qua Ảnh Xưa Và Nay",
+  "description": "Bảo tàng tư liệu số tái hiện ký ức, kiến trúc và đời sống địa phương qua ảnh lịch sử, ảnh hiện đại, video và bản ghi âm có kiểm chứng nguồn gốc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
